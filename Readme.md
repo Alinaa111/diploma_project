@@ -47,9 +47,9 @@ The project focuses on selected public facilities in Astana.
 The computer vision component will detect:
 - Wheelchair ramps
 - Stairs
-- Entrances and doorways
-- Curbs and curb cuts
-- Route obstacles
+- Doors
+- Obstacles
+- Handrails
 
 Additional field measurements cover entrances, ramps, doors, indoor routes, and toilets.
 
@@ -89,7 +89,7 @@ Computer vision model implementation, application development, data collection, 
 ## 6. Project Links and Documentation
 
 - **GitHub Repository:** https://github.com/Alinaa111/diploma_project
-- **YouTrack Project:** https://qoljet.youtrack.cloud/dashboard?id=177-0
+- **YouTrack Project:** https://qoljet.youtrack.cloud/issues/QOL
 - **Project Documentation:** [docs](docs/)
 
 ## 7. Setup, Execution and Testing
